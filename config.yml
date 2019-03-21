@@ -1,0 +1,16 @@
+local:
+  FTP_HOST: localhost
+  FTP_PASSWORD: password
+dev:
+  FTP_HOST: ftp.drivehq.com
+  FTP_PASSWORD: A3]7pHbi2*8dTff+Q2v,KNGxy$y64(/khE4v
+
+FILENAME: 43353_3555087_1_cmp_template.txt.gz
+FTP_PORT: '21'
+FTP_REMOTE_PATH: /43353/
+FTP_USER: atxworkshop
+FTP_S3_BUCKET: atxworkshop-ftp
+ATHENA_S3_BUCKET: atxworkshop-athena
+
+MAX_RECORDS_PER_BATCH: 25
+MAX_CONCURRENT_BATCHES: 1
